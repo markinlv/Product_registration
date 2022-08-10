@@ -1,0 +1,14 @@
+
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(“­†·øÿÿÿÿ8 ó‡‡/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›±‰ã8Ú¿æ‡‡/
+W
+java:S1161":Add the "@Override" annotation above this method signature(°¥¸û8Ú¿æ‡‡/
+
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.( Üó8’×è‡‡/
+W
+java:S1161	":Add the "@Override" annotation above this method signature( Üó8Ú¿æ‡‡/
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚“¶î8šÿšˆ‡/
+W
+java:S1161":Add the "@Override" annotation above this method signature(‚“¶î8šÿšˆ‡/
